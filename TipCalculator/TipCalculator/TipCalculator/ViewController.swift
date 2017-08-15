@@ -44,10 +44,21 @@ class ViewController: UIViewController {
         }
         
         let billAmount = UserDefaults.standard.object(forKey: "BillAmount")
-        print(billAmount ?? "hi")
         if billAmount != nil {
             billTextField.text = billAmount as? String
         }
+       
+        let tipPercentage = UserDefaults.standard.object(forKey: "TipPercentage")
+        if tipPercentage != nil {
+            tipPercentageLabel.text = tipPercentage as? String
+        }
+        
+        let noOfPeople = UserDefaults.standard.object(forKey: "NoOfPeople")
+        if noOfPeople != nil {
+            noOfPeopleLabel.text = noOfPeople as? String
+        }
+        
+        calculateTipAmount(tipPercentage: Int(tipPercentageLabel.text!))
     }
 
     override func didReceiveMemoryWarning() {
