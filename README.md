@@ -4,7 +4,7 @@
 
 Submitted by: **Bansari Patel**
 
-Time spent: **5** hours spent in total
+Time spent: **14** hours spent in total
 
 ## User Stories
 
@@ -48,6 +48,7 @@ Question 2: "Swift uses [Automatic Reference Counting](https://developer.apple.c
 
 **Answer:** 
 
+- If you assign a closure to a property of a class instance, and the body of that closure captures the instance. This capture might occur because the closure’s body accesses a property of the instance  or because the closure calls a method on the instance. In either case, these accesses cause the closure to “capture” self, creating a strong reference cycle.
 
 ## License
 
