@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href='http://imgur.com/a/CA1h9' />
-
-<img src='http://imgur.com/a/CA1h9.' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<img src='http://i.imgur.com/rpat0Km.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 Background of the application looks different in GIF than original application.
 
