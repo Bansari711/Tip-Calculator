@@ -9,7 +9,7 @@ Time spent: **14** hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-**Required Tasks**
+
 - [x] Creating the Tip Calculator
 - [x] Adding Tip Calculator Settings Page
 - [x] Designing the Settings Page
