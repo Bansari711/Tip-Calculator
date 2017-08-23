@@ -32,7 +32,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href='http://imgur.com/a/CA1h9'>
 
 <img src='http://imgur.com/a/CA1h9' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
