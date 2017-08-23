@@ -9,8 +9,12 @@ Time spent: **14** hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-
-[x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+**Required Tasks**
+- [x] Creating the Tip Calculator
+- [x] Adding Tip Calculator Settings Page
+- [x] Designing the Settings Page
+- [x] Loading and Saving via View Controller Lifecycle
+- [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
