@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Imgur](<blockquote class="imgur-embed-pub" lang="en" data-id="rpat0Km"><a href="//imgur.com/rpat0Km">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+[img]http://i.imgur.com/rpat0Km.gif[/img]
 
 <img src='http://i.imgur.com/rpat0Km.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
