@@ -36,6 +36,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://imgur.com/a/CA1h9.' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
+Background of the application looks different in GIF than original application.
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Project Analysis
